@@ -201,3 +201,155 @@ with separate copyright notices and license terms.  This product does not
 necessarily use all the open source components referred to below. Your use of
 the source code for these components is subject to the terms and conditions of
 the following licenses.
+
+
+
+===========================================================================
+
+The following copyright statements and licenses apply to various open source
+software packages (or portions thereof) that are distributed with this VMware
+Product.
+
+The VMware Product may also include other VMware components, which may contain
+additional open source software packages. One or more such
+open_source_licenses.txt files may therefore accompany this VMware Product.
+
+The VMware Product that includes this file does not necessarily use all the
+open source software packages referred to below and may also only use portions
+of a given package.
+
+
+=============== TABLE OF CONTENTS =============================
+
+
+The following is a listing of the open source components detailed in this
+document. This list is provided for your convenience; please read further if
+you wish to review the copyright notice(s) and the full text of the license
+associated with each component.
+
+SECTION 1: BSD-STYLE, MIT-STYLE, OR SIMILAR STYLE LICENSES
+
+   >>> airbrake gobrake.v2-c9d51adc624b5cc4c1bf8de730a09af4878ffe2d
+   >>> assertions-287b4346dc4e71a038c346375a9d572453bc469b
+   >>> backoff-b02f2bbce11d7ea6b97f282ef1771b0fe2f65ef3
+   >>> context-07b51741c1d6423d4a6abab1c49940ec09cb1aaf denco
+   >>> -9af2ba0e24214bac003821f4a501b131b2e04c75
+   >>> dhcp4-f0e4d29ff0231dce36e250b2ed9ff08412584bca
+   >>> easyjson-304d3dc6fae850e62b7db2aee661d9d7b628cef0 gemnasium
+   >>> logrus-airbrake-hook.v2-31e6fd4bd5a98d8ee7673d24bc54ec73c31810dd gls
+   >>> -8ddce2a84170772b95dd5d576c48d517b22cac63 go-1.7.0
+   >>> go-ansiterm-70b2c90b260171e829f1ebd7c17f600c11858dbe
+   >>> go-check-4f90aeace3a26ad7021961c297b22c42160c7b25 go-difflib
+   >>> -792786c7400a136282c1664665ae0a8db921c6c2 go-flags
+   >>> -97448c91aac742cbca3d020b3e769013a420a06f
+   >>> go-httpclient-31f0106b4474f14bc441575c19d3a5fa21aa1f6c
+   >>> go-patricia-d87fea6fbcb44d59ff7dacbbcc347c66fca67724 go-spew
+   >>> -5215b55f46b2b919f50a1df0eaa5886afe4e3b3d
+   >>> goimports-99be5a0b85664c12d36a536b14d0d0b85c74da45 govalidator
+   >>> -9699ab6b38bee2e02cd3fe8b99ecf67665395c96
+   >>> graceful-d7d7a205e779a4738d38eda0671fff8bfc965f14
+   >>> gvt-02e2422ab1f16e3872045e4117af370c5c10b24c inflect -8961c3750a47
+   >>> logrus-4b6ea7319e214d98c938f12692336f7ca9348d6b
+   >>> mitchellh/mapstructure-5a0325d7fafaac12dda6e7fb8bd222ec1b69875e
+   >>> mux-acf3be1b335c8ce30b2c8d51300984666f0ceefa negroni
+   >>> -c7477ad8e330bef55bf1ebe300cf8aa67c492d1b
+   >>> profile-8a808a6967b79da66deacfe508b26d398a69518f
+   >>> pty-f7ee69f31298ecbe5d2b349c711e2547a617d398
+   >>> purell-d69616f51cdfcd7514d6a380847a152dfc2a749d
+   >>> securecookie-fa5329f913702981df43dcb2a380bac429c810b5
+   >>> serial-edb66533729585748de3d69af96aa8c2deeb8aac
+   >>> sessions-ca9ada44574153444b00d3fd9c8559e4cc95f896
+   >>> siphash-6d8617816bb5d8268011ffbfb8720f17ce9af63c smartystreets
+   >>> goconvey-bf58a9a1291224109919756b4dcc469c670cc7e4 stretchr
+   >>> objx-1a9d0bb9f541897e62256577b352fdbc1fb4fd94 stretchr
+   >>> testify-9f9027faeb0dad515336ed2f28317f9f8f527ab4
+   >>> tail-a30252cb686a21eb2d0b98132633053ec2f7f1e5
+   >>> tomb.v1-dd632973f1e7218eb1089048e0798ec9ae7dceb8
+   >>> urfave/cli-d86a009f5e13f83df65d0d6cee9a2e3f1445f0da
+   >>> urfave/cli.v1-a14d7d367bc02b1f57d88de97926727f2d936387 urlesc
+   >>> -5fa9ff0392746aeae1c4b37fcc42c65afa7a9587
+   >>> uuid-f3f4b54b2fabcf1f11dcc939025bb0c109b00ed8
+   >>> vburenin/nsync-9a75d1c80410815ac45d65fc01ccabac9c98dd4a
+
+
+
+SECTION 2: Apache License, V2.0
+
+   >>> coreos/etcd-a4624666fec6b9f82400ea873d5c3d2f968fb737 docker
+   >>> distribution-2.5.1 docker-1.11.0
+   >>> gas-37205e9afa56150a634a1d0d19347446e9b27f17
+   >>> go-openapi/analysis-7222828b8ce19afee3c595aef6643b9e42150120
+   >>> go-openapi/errors-49fe8b3a0e0d32a617d8d50c67f856ad6e45b28b
+   >>> go-openapi/jsonpointer-8d96a2dc61536b690bd36b2e9df0b3c0b62825b2
+   >>> go-openapi/jsonreference-36d33bfe519efae5632669801b180bf1a245da3b
+   >>> go-openapi/loads-315567415dfd74b651f7a62cabfc82a57ed7b9ad
+   >>> go-openapi/runtime-14b161b40ece9dac8e244ab2fde2d209e108c6f5
+   >>> go-openapi/spec-f7ae86df5bc115a2744343016c789a89f065a4bd
+   >>> go-openapi/strfmt-34fc3ba7c0f5fb615fda47a2b4fbd4c641b215f2
+   >>> go-openapi/swag-3b6d86cd965820f968760d5d419cb4add096bdd7
+   >>> go-openapi/validate-027696d4b54399770f1cdcc6c6daa56975f9e14e
+   >>> go-swagger-52c95c3d30d54dad6d1248f1f490c2de0bfbf492
+   >>> go-systemd-7b2428fec40033549c68f54e26e89e7ca9a9ce31
+   >>> golang/lint-206c0f020eba0f7fbcfbc467a5eb808037df2ed6
+   >>> govmomi-ab40ac7324b5d45b8f1677d87ec0d26349448d41
+   >>> groupcache/lru-4eab30f13db9d8b25c752e99d1583628ac2fa422
+   >>> netlink-e73bad418fd727ed3a02830b1af1ad0283a1de6c
+   >>> shakers-24d7f1d6a71aa5d9cbe7390e4afb66b7eef9e1b3
+   >>> sigma/bdoor-b9c82b7b3c0b1e57ec2f8809b6219fbe6a58d92a
+
+
+
+SECTION 3: Common Development and Distribution License, V1.0
+
+   >>> vmw-guestinfo-e3da01aaaf522290dc2ec74cb2ec258e2240564b
+
+
+
+APPENDIX. Standard License Files
+
+   >>> Apache License, V2.0
+
+   >>> Common Development and Distribution License, V1.0
+
+   >>> Creative Commons Attribution License, V3.0
+
+   >>> Creative Commons Attribution-ShareAlike, V4.0
+
+   >>> Mozilla Public License, V2.0
+
+   >>> Creative Commons Attribution 4.0 International
+
+
+--------------- SECTION 1:  BSD-STYLE, MIT-STYLE, OR SIMILAR STYLE LICENSES
+----------
+
+BSD-STYLE, MIT-STYLE, OR SIMILAR STYLE LICENSES are applicable to the
+following component(s).
+
+
+>>> airbrake gobrake.v2-c9d51adc624b5cc4c1bf8de730a09af4878ffe2d
+
+Copyright (c) 2014 The Gobrake Authors. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this
+list of conditions and the following disclaimer.  Redistributions in binary
+form must reproduce the above copyright notice, this list of conditions and
+the following disclaimer in the documentation and/or other materials provided
+with the distribution.  Neither the name of Google Inc. nor the names of its
+contributors may be used to endorse or promote products derived from this
+software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
